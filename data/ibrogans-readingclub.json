@@ -1,10 +1,16 @@
 {
 	"title": "iBrogans Reading Club",
-	"card-headline-1": "Lightweight",
-	"card-content-1": "1 Kb stylesheet is fast to load.",
+	"card-headline-1": "Memberships",
+	"card-content-1": "Membership is required, and costs $30 per year.&nbsp; Membership includes snacks and drinks at club meetings.",
 	"card-headline-2": "No CSS classes",
 	"card-content-2": "Attractive styles for all HTML elements.",
 	"card-headline-3": "Cards Included",
 	"card-content-3": "Use &lt;section&gt; tags to make cards.",
-	"content": "\n      Edit here.\n    "
+	"content": "\n      Edit here.\n    ",
+	"card-content-2-1": "905-639-4875",
+	"card-content-2-2": "mbrogan@ibrogans.ca",
+	"card-content-2-3": "15-1275 Brant Street, Burlington, Ontario",
+	"image_1": "https://picsum.photos/400",
+	"image_2": "https://picsum.photos/400",
+	"image_3": "https://picsum.photos/400"
 }
