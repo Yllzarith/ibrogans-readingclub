@@ -1,10 +1,12 @@
 /* CSS for the website */
 h1#title {
-  /* Created with https://www.css-gradient.com */
-  background: #F4AED8;
-  background: -webkit-linear-gradient(top left, #F4AED8, #FBC6FF);
-  background: -moz-linear-gradient(top left, #F4AED8, #FBC6FF);
-  background: linear-gradient(to bottom right, #F4AED8, #FBC6FF);
+	/* Created with https://www.css-gradient.com */
+	background: #ffe8ef;
+	background: -webkit-linear-gradient(top left, #ffe8ef, #ED559C);
+	background: -moz-linear-gradient(top left, #ffe8ef, #ED559C);
+	background: linear-gradient(to bottom right, #ffe8ef, #ED559C);
+	border-radius: var(--rc);
+  padding: 4px;
 }
 
 .row {
